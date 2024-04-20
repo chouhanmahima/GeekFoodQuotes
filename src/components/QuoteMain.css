@@ -1,0 +1,11 @@
+.quote-main{
+    padding: 7rem 6rem 0rem 6rem;
+    /* background-color: green;    */
+}
+
+@media screen and (max-width:427px) {
+    .quote-main{
+        padding: 5rem 1rem 0rem 4rem;
+    }
+    
+}
